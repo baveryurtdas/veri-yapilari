@@ -1,4 +1,4 @@
-# Patika Veri Yapıları ve Algoritma Bölüm Sonu Projesi
+# Patika Veri Yapıları ve Algoritma Analizi Bölüm Sonu Projesi
 
 ## Insertion Sort
 
